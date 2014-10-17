@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pmj:home|Door43 (pmj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pmj|d43-pmj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pmj/archive/master.zip|d43-pmj.zip]]
+
+**Recent Changes**
+{{changes>ns = pmj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pmj|Ethnologue data]]
+
